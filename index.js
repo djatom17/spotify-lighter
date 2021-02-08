@@ -15,7 +15,7 @@ function createWindow() {
 
   mainWindow.setResizable(true);
 
-  mainWindow.loadURL("http://localhost:8888/login");
+  mainWindow.loadURL("http://localhost:8888/auth/spotify/login");
   mainWindow.focus();
 
   mainWindow.on("closed", () => {
