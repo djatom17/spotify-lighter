@@ -5,7 +5,7 @@ This is a project to create an application that uses the Spotify API and does so
 ## To-do
 
 - [x] Setup authentication
-- [ ] Store access tokens in the application for later auth requests
+- [x] Store access tokens in the application for later auth requests
 - [ ] Create basic UI flow from authentication to main app
 - [ ] Enable simple player controls
 - [ ] Explore Google Home API
